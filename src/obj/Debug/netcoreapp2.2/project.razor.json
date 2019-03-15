@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/h.yarimaga/Desktop/Projects/WorkSpace/Elastic-Kibana-DotNetCore/src/Elastic-Kibana-DotNetCore.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
