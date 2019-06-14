@@ -17,6 +17,7 @@ namespace Elastic_Kibana_DotNetCore.Controllers {
         }
         public IActionResult Index () {
             var a="aa";
+            var b="s";
             _logger.LogInformation ($"Index");
             _logger.LogError("ooooppsss");
                         _logger.LogCritical("ooooppsss critical");
